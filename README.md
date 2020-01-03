@@ -1,2 +1,2 @@
 # Note
-测试git和github使用
+Recording knowledge
